@@ -1,7 +1,7 @@
 # Parking-Spot-Project
 CSOC CV Project
 
-In this ptoject i tried to make a parking spot detection integrating both opencv and deep learning that i learned during CSOC.
+In this project i tried to make a parking spot detection integrating both opencv and deep learning that i learned during CSOC.
 The folder contains a fullscale video of a parking lot along with 2 cropped video of the parking lot.Along with a dataset named clf-data. Which is used for training the Convnet model.
 The main aim of the project is first getting the boundary box around each and every parking lot.Which is done by using the mask.png file.
 After this prediction is made whether a car is present inside the boundary box or not using the model trained from the data.
